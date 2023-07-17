@@ -1,0 +1,11 @@
+[package]
+name = "fuse-ipfs"
+version = "0.0.1"
+authors = ["Yann Autissier <aya@asycn.io>"]
+description = "Filesystem in Userspace (FUSE) for IPFS"
+keywords = ["fuse", "filesystem", "ipfs"]
+license = "GPL"
+
+[dependencies]
+ipfs-api-backend-actix = "0.7"
+fuser = "0.12"
