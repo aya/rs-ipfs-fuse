@@ -1,2 +1,2 @@
 [workspace]
-members = ["fuse-ipfs"]
+members = ["ipfs-fuse"]

@@ -10,6 +10,7 @@ impl Filesystem for IpfsFilesystem {
 
 fn main() {
   let args: Vec<String> = env::args().collect();
+  // dbg!(args);
   match args.len() {
     // one argument passed
     2 => {

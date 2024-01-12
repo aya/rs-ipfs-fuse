@@ -1,9 +1,9 @@
 [package]
-name = "fuse-ipfs"
+name = "ipfs-fuse"
 version = "0.0.1"
 authors = ["Yann Autissier <aya@asycn.io>"]
-description = "Filesystem in Userspace (FUSE) for IPFS"
-keywords = ["fuse", "filesystem", "ipfs"]
+description = "IPFS Filesystem in Userspace (FUSE)"
+keywords = ["ipfs", "fuse", "filesystem"]
 license = "GPL"
 
 [dependencies]
